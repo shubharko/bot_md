@@ -57,8 +57,6 @@ try {
   low = require('./lib/lowdb')
 }
 
-const { Low, JSONFile } = low
-const mongoDB = require('./lib/mongoDB')
 
 let banUser = JSON.parse(fs.readFileSync('./database/banUser.json'));
 let banchat = JSON.parse(fs.readFileSync('./database/banChat.json'));
