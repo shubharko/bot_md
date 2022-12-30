@@ -54,7 +54,7 @@ Chiku Bot Multi Device is a automated whatsapp bot created by <a href="https://g
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Ayush-pandey-u/Chiku-MD/fork)
+- FORK THE REPOSITORY [Here](https://https://github.com/JOSHUANDISHU/Chiku-MD/fork)
 
   
   ## Thanks To
